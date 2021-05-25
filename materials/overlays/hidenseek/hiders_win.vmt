@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "overlays/hidenseek/hiders_win"
+	"$no_fullbright" 1
+	"$translucent" 1
+}
